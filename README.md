@@ -16,7 +16,6 @@
 <p align="center">🌍 Kolkata, India</p>
 </div>
 
-
 ---
 
 <div align="center">
@@ -24,7 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aniii09&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniii09&theme=radical" alt="GitHub Streak" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniii09&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-  
 </div>
 
   ---
