@@ -15,3 +15,10 @@
 🚀 I’m currently learning web 3, DSA-<br>
 <p align="center">🌍 Kolkata, India</p>
 </div>
+-------------------------------------------------------------------------<div align="center">
+  <h3>Profile Stats</h3>
+  <img src="https://komarev.com/ghpvc/?username=aniii09&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/aniii09?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/aniii09?style=social" alt="GitHub Stars"/>
+
+</div>
