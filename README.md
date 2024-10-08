@@ -34,4 +34,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniii09&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
 
+---
 
+<div align="center">
+  <h3>About Me</h3>
+  <p>👨‍💻 I'm Passionate about coding and technology.</p>
+  <p>💼 Currently learning Web 3.</p>
+  <p>📚 I have solved few DSA questions, constantly improving my problem-solving skills.</p>
+  <p>🎓 I am an undergraduate student at SNU.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
