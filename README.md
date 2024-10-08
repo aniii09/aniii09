@@ -1,3 +1,5 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/aninda-mondal-5077172b4/">Aninda</a> </h1>
 
 <!--- Adding Header Elements -->
