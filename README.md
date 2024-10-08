@@ -11,8 +11,8 @@
 -----------------------------------------------------------
 <div>
 👨🏻‍💻 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-👾 -I’m currently working on open-source project<br>
-🚀 I’m currently learning web 3, DSA-<br>
+👾 I’m currently working on open-source project<br>
+🚀 I’m currently learning web 3, DSA<br>
 <p align="center">🌍 Kolkata, India</p>
 </div>
 
